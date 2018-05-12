@@ -1,0 +1,37 @@
+_repo: Humanly-Speaking_15866
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Crothers, Samuel McChord
+    birthdate: 1857
+    deathdate: 1927
+    gutenberg_agent_id: '6347'
+    url: http://www.gutenberg.org/2009/agents/6347
+description: The Shelf2Life Literature and Fiction Collection is a unique set of short
+  stories, poems and novels from the late 19th to early 20th centuries. From tales
+  of love, life and heartbreaking loss to humorous stories of ghost encounters, these
+  volumes captivate the imaginations of readers young and old. Included in this collection
+  are a variety of dramatic and spirited poems that contemplate the mysteries of life
+  and celebrate the wild beauty of nature. The Shelf2Life Literature and Fiction Collection
+  provides readers with an opportunity to enjoy and study these iconic literary works,
+  many of which were written during a period of remarkable creativity.
+gutenberg_issued: '2005-05-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15866'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Essays'
+- !lcc 'PS'
+tableOfContents: Humanly speaking -- In the hands of a receiver -- The contemporaneousness
+  of Rome -- The American temperament -- The unaccustomed ears of Europe -- The Toryism
+  of travelers -- The obviousness of Dickens -- The spoiled children of civilization
+  -- On realism as an investment -- To a citizen of the old school.
+title: Humanly Speaking
+url: http://www.gutenberg.org/ebooks/15866
